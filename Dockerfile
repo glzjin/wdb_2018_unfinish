@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 LABEL Author="Virink <virink@outlook.com>"
 LABEL Blog="https://www.virzz.com"
